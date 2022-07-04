@@ -1,0 +1,7 @@
+crcns-account.txt
+*.txt
+*.nii.gz
+*.nii
+*.mat
+*.md5
+vim-1/*
