@@ -1,3 +1,4 @@
+# for dataset
 crcns-account.txt
 *.txt
 *.nii.gz
@@ -5,3 +6,6 @@ crcns-account.txt
 *.mat
 *.md5
 vim-1/*
+
+# for vscode
+.vscode/*
