@@ -9,3 +9,6 @@ vim-1/*
 
 # for vscode
 .vscode/*
+
+# for formatter
+.mypy_cache/*
